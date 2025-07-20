@@ -1,0 +1,6 @@
+whispercpp
+coqui-tts
+pjsua
+fastapi
+uvicorn
+aiohttp
